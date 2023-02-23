@@ -5,23 +5,23 @@ fun main() {
 
     if number == 1:
         print 'The Roman Numeral is I.'
-    elif number == 2:
+    if number == 2:
         print 'The Roman Numeral is II.'
-    elif number == 3:
+    if number == 3:
         print 'The Roman Numeral is III.'
-    elif number == 4:
+    if number == 4:
         print 'The Roman Numeral is IV.'
-    elif number == 5:
+    if number == 5:
         print 'The Roman Numeral is V.'
-    elif number == 6:
+    if number == 6:
         print 'The Roman Numeral is VI.'
-    elif number == 7:
+    if number == 7:
         print 'The Roman Numeral is VII.'
-    elif number == 8:
+    if number == 8:
         print 'The Roman Numeral is VIII.'
-    elif number == 9:
+    if number == 9:
         print 'The Roman Numeral is IX.'
-    elif number == 10:
+    if number == 10:
         print 'The Roman Numeral is X.'
     else:
         print 'Error!'
